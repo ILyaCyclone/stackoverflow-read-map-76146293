@@ -1,0 +1,19 @@
+car:
+    #name of Map
+    model:
+        volkswagen:
+            year: 1937
+            ranking: 2
+            office:
+                country: germany
+                city: wolfsburg
+
+        honda:
+            year: 1948
+            ranking: 3
+            office:
+                country: japan
+                city: tokyo
+    #common parameters for all models
+    wheels: 4
+    #etc...
